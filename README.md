@@ -5,14 +5,23 @@ A modern and responsive **Flutter Weather Application** that provides real-time 
 ---
 
 ## 📱 Screenshots
+## 📸 Screenshots
 
-The application provides a clean and modern user interface with dynamically changing backgrounds based on weather conditions.
+<p align="center">
+  <img src="screenshots/1.jpeg" width="250" alt="Weather App Screenshot 1">
+  <img src="screenshots/2.jpeg" width="250" alt="Weather App Screenshot 2">
+  <img src="screenshots/3.jpeg" width="250" alt="Weather App Screenshot 3">
+</p>
 
-| Sunny / Clear Weather     | Cloudy / Rainy Weather    |
-| ------------------------- | ------------------------- |
-| ☀️ Warm orange background | ☁️ Dark cloudy background |
+<p align="center">
+  <img src="screenshots/4.jpeg" width="250" alt="Weather App Screenshot 4">
+  <img src="screenshots/5.jpeg" width="250" alt="Weather App Screenshot 5">
+  <img src="screenshots/6.jpeg" width="250" alt="Weather App Screenshot 6">
+</p>
 
----
+<p align="center">
+  <img src="screenshots/7.jpeg" width="250" alt="Weather App Screenshot 7">
+</p>
 
 ## ✨ Features
 
